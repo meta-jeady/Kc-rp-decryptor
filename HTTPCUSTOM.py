@@ -305,11 +305,11 @@ class HCDecryptor:
             result_dict = {"Protections": protections, "Config": config_data}
 
             return (
-                f"HABIBI HTTP CUSTOM SCRIPT\n"
+                f"KCORP TECH HTTP CUSTOM SCRIPT\n"
                 f"{'='*30}\n\n"
                 f"{json.dumps(result_dict, indent=4, ensure_ascii=False)}\n\n"
                 f"{'='*30}\n"
-                f"code : @HABIBI_1ST"
+                f"code : @KCORP TECH_1ST"
             )
         return None
 
